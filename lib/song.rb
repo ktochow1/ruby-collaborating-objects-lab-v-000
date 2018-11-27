@@ -12,7 +12,7 @@ class Song
     new_song = self.new(song_name)
     
  
-    name = Artist.name
+    name = 
     new_artist = Artist.new(name)
     
     
