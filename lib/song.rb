@@ -19,5 +19,5 @@ class Song
   
 end
 
-# new_song = Song.new
+# new_song = Song.new(name)
 # new_song.name = "song name"
