@@ -8,10 +8,10 @@ class Song
   
  def self.new_by_filename(file_name)
     
-    
-    # new_song = self.new(song_name)
     song_name = file_name.split(' - ')[1] #.gsub! '.mp3', ''
-    new_song
+    # new_song = self.new(song_name)
+    
+ 
     
     artist_name = file_name.split(' - ')[0]
     
