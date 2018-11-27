@@ -18,3 +18,6 @@ class Song
   end
   
 end
+
+new_song = Song.new
+new_song.name = "song name"
