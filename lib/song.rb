@@ -15,7 +15,7 @@ class Song
     
     artist_name = file_name.split(' - ')[0]
     
-    puts file_name
+    puts song_name
   end
   
 end
