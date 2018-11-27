@@ -10,7 +10,7 @@ class Song
     
     
     # new_song = self.new(song_name)
-    new_song = file_name.split(' - ')[1] #.gsub! '.mp3', ''
+    new_songname = file_name.split(' - ')[1] #.gsub! '.mp3', ''
     new_song
     
     artist_name = file_name.split(' - ')[0]
