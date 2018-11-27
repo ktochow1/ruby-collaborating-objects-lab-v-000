@@ -13,6 +13,8 @@ class Song
     # new_song
     
     # artist_name = file_name.split(' - ')[0]
+    
+    puts file_name
   end
   
 end
